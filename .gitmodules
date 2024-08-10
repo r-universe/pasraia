@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "RRphylo"]
 	path = RRphylo
-	url = https://github.com/cran/RRphylo
+	url = https://github.com/pasraia/rrphylo
